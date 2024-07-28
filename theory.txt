@@ -1,0 +1,3 @@
+<button onclick="document.getElementById ('demo').src=('img/im1.jpg')" >1</button>
+    <img id="demo" src="img/im1.jpg" alt="im1"/>
+    <button onclick="document.getElementById ('demo').src=('img/im2.jpg')" >2</button>
